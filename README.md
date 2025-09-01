@@ -19,10 +19,11 @@ This project showcases a comprehensive sales dashboard built in Excel, ideal for
 
 | File Name         | Description                                      |
 |------------------|--------------------------------------------------|
-| `Dasgbadrd image`| Excelsheet Dash board image      |
-| `orders.csv`     | Raw order-level data                             |
-| `products.csv`   | Product catalog with categories and pricing      |
-| `customers.csv`  | Customer data including city and spending habits |
+| `Dashboard image`| Excelsheet Dashboard image                       |
+| `orders`         | Raw order-level data                             |
+| `products`       | Product catalog with categories and pricing      |
+| `customers`      | Customer data including city and spending habits |
+| `Excel project`  | Sales excel analysis sheet                       |
 
 ---
 
