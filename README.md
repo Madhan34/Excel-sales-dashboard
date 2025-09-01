@@ -1,4 +1,4 @@
-# 📊 Excel Sales Dashboard
+<img width="1233" height="484" alt="image" src="https://github.com/user-attachments/assets/682d4b04-f5a4-4b18-8403-e51601813691" /># 📊 Excel Sales Dashboard
 
 An end-to-end **Excel dashboard** for sales analysis, featuring dynamic filters, interactive charts, and key performance indicators. Designed to help businesses gain actionable insights into revenue trends, customer behavior, and product performance.
 
@@ -19,7 +19,7 @@ This project showcases a comprehensive sales dashboard built in Excel, ideal for
 
 | File Name         | Description                                      |
 |------------------|--------------------------------------------------|
-| `dashboard.xlsx` | Main Excel dashboard with charts and filters     |
+| `Dasgbadrd image`| Excelsheet Dash board image      |
 | `orders.csv`     | Raw order-level data                             |
 | `products.csv`   | Product catalog with categories and pricing      |
 | `customers.csv`  | Customer data including city and spending habits |
